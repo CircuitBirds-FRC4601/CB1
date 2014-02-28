@@ -1,0 +1,59 @@
+Control Connections Team 4601:
+
+PWM Outputs:
+	1:		Left Front Drive
+	2:		Left Rear Drive
+	3:		Right Front Drive
+	4:		Right Rear Drive
+	5:		Front Shooter
+	6:		Rear Shooter
+	7:		Tilt Shooter
+	8:
+	9:
+	10:
+	
+Digital I/O:
+	1:		Pneumatic Pressure Switch
+	2:
+	3:
+	4:		Right Encoder A
+	5:		Right Encoder B
+	6:		Left Encoder A
+	7:		Left Encoder B
+	8:		Tilt Encoder A
+	9:		Tilt Encoder B
+	10:		Shooter Encoder A
+	11:		Shooter Encoder B
+	12:
+	13:
+	14:
+
+Relay:
+	1:		Air Compressor
+	2:
+	3:
+	4:
+	5:
+	6:
+	7:
+	8:
+
+Analog Input:
+	1:
+	2:
+	3:
+	4:
+	5:
+	6:
+	7:
+	8:		Battery Voltage
+
+Solenoid Output:
+	1:		Disc Pusher - Extend
+	2:		Disc Pusher - Retract
+	3:
+	4:
+	5:
+	6:
+	7:
+	8:
